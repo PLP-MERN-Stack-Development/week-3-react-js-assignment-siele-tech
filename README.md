@@ -52,7 +52,7 @@ src/
 ├── utils/           # Utility functions
 └── App.jsx          # Main application component
 ```
-
+## Deployed link (https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-siele-tech.git)
 ## Submission
 
 Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
